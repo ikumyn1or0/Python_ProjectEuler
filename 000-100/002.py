@@ -13,7 +13,5 @@ def main():
         prev_f = temp
     print(sum)
 
-
-
 if __name__ == '__main__':
     main()
